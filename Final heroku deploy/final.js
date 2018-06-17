@@ -2,10 +2,10 @@ var request = require('request');
 var Twit = require('twit');
 
 var T = new Twit({
-    consumer_key: '5Tkk6zMDmCmhybuGV8F9mqFLy',
-    consumer_secret: 'g0i2GkBgRumCh5ExZePmdsU2BkoRWolgBUu6w7jkESZYHJaLFe',
-    access_token: '890404828899233792-Fr0ynfnv3gSAnAQ2l1l80yCXa69gU3m',
-    access_token_secret: 'S89LNodJwHRq9mbtjAwwHklidKncmiycSY4N6Ai5aPowT'
+    consumer_key: '',
+    consumer_secret: '',
+    access_token: '',
+    access_token_secret: ''
 });
 
 
